@@ -1,0 +1,21 @@
+plainaddress
+@no-local-part.com
+Outlook Contact <test@example.com>
+no-at-symbol
+test@.com
+test@site.
+test@.site.com
+test@site..com
+@.
+🥺😍@🟩🟩🟩.™️™️™️
+'; DROP TABLE reviews; --
+OR '1'='1'
+OR ""='
+OR x=x
+OR 'x'='x
+OR 1=1--
+OR 'text'='tEXT'
+') OR ('x'='x
+'; exec master..xp_cmdshell 'ping 172.10.1.255'--
+'; declare @s varchar(8000) select @s = db_name() if (charindex(' ',@s)>0) waitfor delay '0:0:2'--
+1; DROP TABLE users
